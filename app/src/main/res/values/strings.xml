@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPA_khaliquea1_Calculator</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="gpa">GPA = ?</string>
+</resources>
